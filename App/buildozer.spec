@@ -22,6 +22,7 @@ android.minapi = 23
 android.ndk = 25b
 android.archs = arm64-v8a, armeabi-v7a
 android.allow_backup = True
+android.accept_sdk_license = True
 android.presplash_color = #F4F6FB
 
 # 中文界面：项目自带 fonts/simhei.ttf，已通过 include_patterns 打入
