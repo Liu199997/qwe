@@ -1,0 +1,21 @@
+# 开发环境与缓存
+.packenv/
+.venv/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+
+# 打包产物
+App/build/
+App/dist/
+App/bin/
+App/.buildozer/
+*.spec.bak
+
+# 临时文件
+*.log
+_smoke*.png
+frozen_*.png
+.buildozer/
+bin/
