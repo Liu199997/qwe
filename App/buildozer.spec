@@ -13,7 +13,8 @@ version = 1.0.0
 
 # 依赖（Kivy 内置，无需 Qt）
 requirements = python3,kivy==2.3.1
-
+p4a.fork = kivy
+p4a.branch = v2024.01.21
 orientation = portrait
 fullscreen = 0
 icon.filename = %(source.dir)s/icon.png
